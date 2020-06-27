@@ -10,5 +10,6 @@
 
 ## 资料
 
-https://git-scm.com/download
-
+[Git 文档](https://git-scm.com/download)  
+[Bootstrap 文档](https://v3.bootcss.com/components/#navbar)  
+[Github App授权](https://developer.github.com/apps/building-github-apps/creating-a-github-app/)
